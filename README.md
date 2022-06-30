@@ -24,7 +24,9 @@ Add your app base url e.g. http://localhost:3000 into the CORS for the Storage a
 
 # Configure and Run the app
 
-Update the .env file with your settings, i have left my settings in to give you an example of what is expected. Most of the settings would come from the app registeration created above. Once .env file has been updated run `npm start` in the root folder.
+1. Update the _.env file with your settings, i have left my settings in to give you an example of what is expected. Most of the settings would come from the app registeration created above. 
+2. Once _.env file has been updated, rename it to `.env` 
+3. Run `npm start` in the root folder.
 
 In the browser, go to the url as below:
 
